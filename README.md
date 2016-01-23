@@ -27,7 +27,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+* Had one issue where I wasn't able to re-open the code editor. Had to restart. Everything else seemed rather straightforward. Looking forward to learning auto layout. 
 
 ## License
 
