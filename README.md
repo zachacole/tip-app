@@ -19,9 +19,9 @@ The following optional features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Tip App gif](tip-aff-gif.gif) 
 
-<img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='/tip-app/tip-app-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
