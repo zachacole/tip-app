@@ -14,11 +14,12 @@ The following required functionality is complete:
 The following optional features are implemented:
 * Custom font
 * User can divide their bill by the number of people in their party to see a Per Person total.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
+![Tip App gif](tip-aff-gif.gif) 
 
 <img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
